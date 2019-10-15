@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/my-site/build/static/css/main.8015ac40.chunk.css",
-    "main.js": "/my-site/build/static/js/main.8a13f867.chunk.js",
-    "main.js.map": "/my-site/build/static/js/main.8a13f867.chunk.js.map",
-    "runtime-main.js": "/my-site/build/static/js/runtime-main.8df4828a.js",
-    "runtime-main.js.map": "/my-site/build/static/js/runtime-main.8df4828a.js.map",
-    "static/js/2.0750ee86.chunk.js": "/my-site/build/static/js/2.0750ee86.chunk.js",
-    "static/js/2.0750ee86.chunk.js.map": "/my-site/build/static/js/2.0750ee86.chunk.js.map",
-    "index.html": "/my-site/build/index.html",
-    "precache-manifest.e95ed82f09b5bb4af5111f7d51a658b6.js": "/my-site/build/precache-manifest.e95ed82f09b5bb4af5111f7d51a658b6.js",
-    "service-worker.js": "/my-site/build/service-worker.js",
-    "static/css/main.8015ac40.chunk.css.map": "/my-site/build/static/css/main.8015ac40.chunk.css.map",
-    "static/media/github.png": "/my-site/build/static/media/github.723daae2.png",
-    "static/media/mail.png": "/my-site/build/static/media/mail.f4f8fd1d.png",
-    "static/media/phone.png": "/my-site/build/static/media/phone.4d9033cb.png"
+    "main.css": "/my-site/static/css/main.8015ac40.chunk.css",
+    "main.js": "/my-site/static/js/main.8a13f867.chunk.js",
+    "main.js.map": "/my-site/static/js/main.8a13f867.chunk.js.map",
+    "runtime-main.js": "/my-site/static/js/runtime-main.c78263db.js",
+    "runtime-main.js.map": "/my-site/static/js/runtime-main.c78263db.js.map",
+    "static/js/2.0750ee86.chunk.js": "/my-site/static/js/2.0750ee86.chunk.js",
+    "static/js/2.0750ee86.chunk.js.map": "/my-site/static/js/2.0750ee86.chunk.js.map",
+    "index.html": "/my-site/index.html",
+    "precache-manifest.31e52666aea9ae6f1f9ba0ec361b2fb0.js": "/my-site/precache-manifest.31e52666aea9ae6f1f9ba0ec361b2fb0.js",
+    "service-worker.js": "/my-site/service-worker.js",
+    "static/css/main.8015ac40.chunk.css.map": "/my-site/static/css/main.8015ac40.chunk.css.map",
+    "static/media/github.png": "/my-site/static/media/github.723daae2.png",
+    "static/media/mail.png": "/my-site/static/media/mail.f4f8fd1d.png",
+    "static/media/phone.png": "/my-site/static/media/phone.4d9033cb.png"
   }
 }
