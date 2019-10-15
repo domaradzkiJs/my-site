@@ -79,7 +79,7 @@ p {
   font-size:1em;
  color:white;
  padding:3px;
- 
+ cursor: pointer;
 }
 button:focus {outline:0;}
 
